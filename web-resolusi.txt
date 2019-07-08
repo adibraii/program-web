@@ -1,5 +1,6 @@
 WEB RESOLUSI
  
-- Membuat web sederhana 
+
 - belajar bekerja dengan git dan github
 - kolaborasi codeigniter dengan ajax dalam perancangan CMS 
+- membuat vlog
