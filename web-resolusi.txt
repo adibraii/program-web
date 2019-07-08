@@ -2,5 +2,6 @@ WEB RESOLUSI
  
 
 - belajar bekerja dengan git dan github
+- belajar menggunakan framwok CI
 - kolaborasi codeigniter dengan ajax dalam perancangan CMS 
-- membuat vlog
+
