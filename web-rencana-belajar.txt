@@ -4,3 +4,5 @@ RENCANA BELAJAR WEB
   *ES6
   *framework
   *paralax efek
+- Jquery
+  
