@@ -3,3 +3,4 @@ RENCANA BELAJAR WEB
 - javascript
   *ES6
   *framework
+  *paralax efek
